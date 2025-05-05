@@ -14,7 +14,7 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/eg-ship/shipwreck-art-SLIS0563
 
 ##########
 # SITE SETTINGS
@@ -34,7 +34,7 @@ author: Ellie Gradert
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: shipwreck-art.csv
+metadata: shipwreck-art
 
 ##########
 # Site/Organization Branding 
@@ -49,7 +49,7 @@ metadata: shipwreck-art.csv
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
